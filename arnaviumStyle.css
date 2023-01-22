@@ -276,6 +276,7 @@ h1{
     
     #review{
         min-width: 300px;
+        min-height: 340px;
     }
 
     #viewBill{

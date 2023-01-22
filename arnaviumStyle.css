@@ -295,6 +295,10 @@ h1{
         background: rgb(44,125,91);
         background: linear-gradient(0deg, rgba(44,125,91,1) 10%, rgba(51,207,141,1) 50%);
     }
+    
+    #popupthing {
+        transform: translateY(-135px);
+    }
 }
 
 @media only screen and (max-width: 420px) {
